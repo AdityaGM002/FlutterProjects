@@ -1,6 +1,6 @@
-# fluttercourse
+# Quiz
 
-A new Flutter project.
+A basic General knowledge quiz
 
 ## Getting Started
 
